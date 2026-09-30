@@ -1,189 +1,254 @@
-# Aditya Dugar
+<div align="center">⚡ ADITYA DUGAR
 
-### Software Engineering Student · AI & Full-Stack Builder
+"Software Engineering Student" • "AI Builder" • "Automation Nerd"
 
-I’m a second-year Software Engineering student at Jain Deemed-to-be University building software around **AI, automation, backend systems, and modern web applications**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Automation+%C3%97+Full-Stack+%C3%97+AI;Learning+by+building%2C+breaking%2C+and+rebuilding+%F0%9F%94%A5" alt="Typing SVG" /><br><a href="https://github.com/AdityaDugar11">
+<img src="https://img.shields.io/github/followers/AdityaDugar11?style=for-the-badge&logo=github&label=FOLLOWERS" />
+</a>
+&nbsp;
+<a href="https://github.com/AdityaDugar11?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-18-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=AdityaDugar11&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" /><br><br>
 
-I’m particularly interested in turning ideas into working systems — from AI agents and RAG workflows to full-stack applications, developer tools, and automation pipelines.
+«"Don't just learn the technology. Build something with it."»
 
-> **Build it. Understand it. Document it. Improve it.**
+</div>---
 
----
+🧠 WHO AM I?
 
-## Currently Building
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👨‍💻  Aditya Dugar                                         │
+│                                                             │
+│  🎓  Software Engineering Student — 2nd Year               │
+│  🏫  Jain Deemed-to-be University                           │
+│                                                             │
+│  🤖  Exploring AI, Agents & RAG                             │
+│  ⚙️  Building automation & backend systems                  │
+│  🌐  Creating modern full-stack applications                │
+│  🐧  Linux enthusiast                                      │
+│                                                             │
+│  Currently turning random ideas into actual repositories.   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-### AI & Automation
+I'm a second-year Software Engineering student who likes building things that actually do something.
 
-* **SchemeMatcher** — AI-powered scheme matching platform built around personalized recommendations, multilingual support, and application workflows.
-* **AI Content Automation Pipeline** — n8n + Ollama + ComfyUI workflows for automated content generation and publishing.
-* **Lead Qualification Agent** — AI-assisted lead analysis and qualification using n8n and LLM workflows.
-* **FAQ RAG Support Agent** — AI support workflow with RAG, escalation, and external service integrations.
+My current rabbit holes:
 
-### Software Engineering
+"AI Agents" → "RAG" → "Automation" → "Backend Systems" → "Full-Stack" → "Linux"
 
-* **SnipLink** — URL-shortening service with a browser dashboard, analytics, custom slugs, and persistent link management.
-* **FlowGuard AI** — agentic payment and fraud-detection prototype combining React, FastAPI and machine-learning based risk analysis.
-
----
-
-## Tech Stack
-
-### Languages
-
-`Python` · `JavaScript` · `TypeScript` · `C` · `Java`
-
-### Frontend
-
-`React` · `Next.js` · `Vite` · `HTML` · `CSS` · `Tailwind CSS`
-
-### Backend
-
-`FastAPI` · `Node.js` · `Express` · `REST APIs`
-
-### AI & Automation
-
-`LLMs` · `RAG` · `AI Agents` · `Ollama` · `n8n` · `ComfyUI` · `Prompt Engineering`
-
-### Data & Infrastructure
-
-`SQLite` · `PostgreSQL` · `MongoDB` · `Supabase` · `Git` · `GitHub` · `Linux`
+I learn fastest by taking an idea, building the ugly first version, breaking it, figuring out why it broke, and then making it better.
 
 ---
 
-## Featured Projects
+🔥 WHAT I'M BUILDING
 
-### SchemeMatcher
+<div align="center">🤖 AI × ⚙️ AUTOMATION × 🌐 SOFTWARE
 
-**AI-driven government scheme matching platform**
-
-Matches user profiles with relevant government schemes and provides personalized reasoning through an AI-powered backend.
-
-**Focus:** AI applications · FastAPI · React · Gemini · Supabase · SQLite
-
----
-
-### FlowGuard AI
-
-**Agentic payment and fraud-detection prototype**
-
-A full-stack fintech prototype combining payment routing, anomaly detection, risk analysis, and an AI decision layer.
-
-**Focus:** React · FastAPI · Python · scikit-learn · AI agents
-
----
-
-### AI Content Automation Pipeline
-
-**Automated AI content generation workflow**
-
-Connects LLM-based content generation with ComfyUI image/video workflows and n8n automation.
-
-**Focus:** Ollama · n8n · ComfyUI · automation · APIs
+</div>                         ┌───────────────┐
+                         │   AI / LLMs   │
+                         └───────┬───────┘
+                                 │
+                    ┌────────────▼────────────┐
+                    │     AI APPLICATIONS     │
+                    └────────────┬────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              ▼                  ▼                  ▼
+        ┌──────────┐       ┌──────────┐       ┌──────────┐
+        │   RAG    │       │  AGENTS  │       │ WORKFLOW │
+        └────┬─────┘       └────┬─────┘       │AUTOMATION│
+             │                  │              └────┬─────┘
+             └──────────────────┼──────────────────┘
+                                ▼
+                       ┌─────────────────┐
+                       │ BACKEND / APIs  │
+                       └────────┬────────┘
+                                ▼
+                       ┌─────────────────┐
+                       │ FULL-STACK APPS │
+                       └─────────────────┘
 
 ---
 
-### Lead Qualification Agent
+🚀 FEATURED BUILDS
 
-**AI-assisted lead analysis and qualification**
+🏛️ SchemeMatcher
 
-Collects lead information and sends it through an automation workflow where an AI system analyzes intent and qualification signals.
+AI-driven government scheme matching platform
 
-**Focus:** n8n · LLMs · Groq · Airtable · Slack · JavaScript
+Helping users discover relevant government schemes through profile-based matching and AI-powered recommendations.
 
----
+"React" "Vite" "FastAPI" "Gemini" "Supabase" "SQLite"
 
-### SnipLink
+<a href="https://github.com/AdityaDugar11/SIH-AI-Driven-Scheme-Matching-for-Marginalized-Entrepreneurs">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>---
 
-**URL shortening and link management service**
+🛡️ FlowGuard AI
 
-A Node.js and Express service that creates short links, tracks clicks, supports custom slugs, and provides a browser dashboard.
+Agentic payment & fraud-detection prototype
 
-**Focus:** Node.js · Express · REST APIs · JavaScript
+A fintech experiment combining payment systems, anomaly detection, risk analysis and an AI decision layer.
 
----
+"React" "FastAPI" "Python" "scikit-learn" "AI Agents"
 
-### FAQ RAG Support Agent
+<a href="https://github.com/AdityaDugar11/MATRIX">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github" />
+</a>---
 
-**AI-powered customer support workflow**
+🎬 AI Content Automation Pipeline
 
-Handles FAQ-style queries, escalates complex conversations, and integrates external tools for support operations.
+AI content generation without manually doing everything
 
-**Focus:** RAG · n8n · LLMs · Slack · Airtable
+A workflow combining LLMs, n8n and ComfyUI to automate research, content generation, media generation and publishing workflows.
 
----
+"n8n" "Ollama" "ComfyUI" "LLMs" "Automation"
 
-## What I'm Learning
+<a href="https://github.com/AdityaDugar11/AI-Content-Generation-Automation-Pipeline-n8n-ComfyUI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FF2D55?style=for-the-badge&logo=github" />
+</a>---
 
-* Deeper **TypeScript and modern full-stack development**
-* **AI agent architecture** and tool-using systems
-* **RAG systems** and LLM application design
-* Backend architecture and API design
-* Linux and developer tooling
-* Testing, CI/CD, and software engineering practices
-* Building smaller systems from first principles instead of relying entirely on frameworks
+🎯 Lead Qualification Agent
 
----
+AI-powered lead analysis & qualification
 
-## Engineering Interests
+An automation workflow that collects lead information, analyzes it with an LLM and routes the result through external services.
 
-```text
-AI Applications
-      ↓
-Agents + RAG + Automation
-      ↓
-Backend Systems + APIs
-      ↓
-Modern Web Applications
-      ↓
-Developer Tools
-```
+"n8n" "Groq" "Airtable" "Slack" "JavaScript"
 
-I’m especially interested in the layer between **AI models and useful software** — the engineering required to turn a model into a reliable application.
+<a href="https://github.com/AdityaDugar11/Lead-Qualification-Agent">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00C853?style=for-the-badge&logo=github" />
+</a>---
 
----
+🔗 SnipLink
 
-## How I Build
+A URL shortener that actually tracks the links
 
-I try to keep my projects focused on four things:
+Create short URLs, use custom slugs, track clicks and manage links through a web dashboard.
 
-**01 — Real problem**
-Build something that has a reason to exist.
+"Node.js" "Express" "JavaScript" "REST API"
 
-**02 — Working system**
-Prioritize functionality over decorative complexity.
+<a href="https://github.com/AdityaDugar11/sniplink">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FF9800?style=for-the-badge&logo=github" />
+</a>---
 
-**03 — Technical understanding**
-Know what the major components are doing instead of hiding everything behind abstractions.
+🧰 MY TECH STACK
 
-**04 — Documentation**
-Make the project understandable to someone who didn't build it.
+<div align="center">💻 LANGUAGES
 
----
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java" />🌐 WEB
 
-## GitHub Activity
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" />⚙️ BACKEND
 
-Most of my recent work is focused on AI automation, backend systems, and full-stack projects.
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />🤖 AI / AUTOMATION
 
-I use GitHub to document what I'm building, experiment with technologies, and gradually turn prototypes into better-engineered software.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br><img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00A8E8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />🗄️ DATABASE & CLOUD
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,githubactions" />🐧 ENVIRONMENT
 
-## Connect
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" /></div>---
 
-**GitHub:** `@AdityaDugar11`
+⚡ CURRENTLY LEARNING
 
-**LinkedIn:** `linkedin.com/in/aditya-dugar-b95962219/`
++ Agentic AI & tool-using systems
++ Retrieval-Augmented Generation
++ Advanced Python
++ TypeScript
++ Backend architecture
++ API design
++ Docker & CI/CD
++ Linux & developer tooling
++ Testing & production engineering
 
-**Portfolio:** `adityadugar.vercel.app`
-
-**Email:** `adityadugar7@gmail.com`
-
----
-
-### Currently building software at the intersection of
-
-**AI × Automation × Software Engineering**
+- Trying to learn 47 frameworks at the same time
 
 ---
 
-<sub>Building, breaking, learning, and shipping — one project at a time.</sub>
+🧪 CURRENT EXPERIMENTS
+
+<table>
+<tr>
+<td width="50%">🤖 AI Agents
+
+Building systems where LLMs can reason, use tools and execute workflows instead of simply generating text.
+
+</td>
+<td width="50%">🔄 Automation
+
+Connecting AI models with real services through n8n, APIs and custom backend systems.
+
+</td>
+</tr><tr>
+<td width="50%">🧠 RAG
+
+Experimenting with systems that retrieve useful information before generating answers.
+
+</td>
+<td width="50%">🐧 Linux
+
+Using Linux as a development environment and learning how the system actually works underneath the abstractions.
+
+</td>
+</tr>
+</table>---
+
+📊 GITHUB ACTIVITY
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdityaDugar11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDugar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /><br><img src="https://streak-stats.demolab.com?user=AdityaDugar11&theme=tokyonight&hide_border=true" /></div>---
+
+🐍 THE CONTRIBUTION SNAKE
+
+<div align="center"><img src="https://raw.githubusercontent.com/AdityaDugar11/AdityaDugar11/output/github-contribution-grid-snake-dark.svg" /></div>---
+
+🎯 2026 → 2027
+
+2026
+ │
+ ├── 📚 Strengthen DSA & CS fundamentals
+ ├── 🤖 Build deeper AI systems
+ ├── ⚙️ Learn production backend engineering
+ ├── 🐳 Get serious about Docker + CI/CD
+ ├── 🧠 Build better agentic workflows
+ └── 🚀 Ship projects instead of collecting tutorials
+ │
+ ▼
+2027
+ │
+ ├── 💼 Internship
+ ├── 🌎 Open-source contributions
+ ├── 🏗️ Larger engineering projects
+ └── 🤖 Production-grade AI applications
+
+---
+
+💭 HOW I THINK ABOUT BUILDING
+
+«Idea → Prototype → Break → Debug → Understand → Improve → Ship»
+
+I don't want to just collect certificates or memorize frameworks.
+
+I want to understand why the system works, where it breaks, and how to make it better.
+
+---
+
+🌐 FIND ME
+
+<div align="center"><a href="https://github.com/AdityaDugar11">
+<img src="https://img.shields.io/badge/GitHub-AdityaDugar11-181717?style=for-the-badge&logo=github" />
+</a><a href="https://www.linkedin.com/in/aditya-dugar-b95962219/">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dugar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a><a href="https://adityadugar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a></div>---
+
+<div align="center">⚡ BUILD. BREAK. LEARN. SHIP. REPEAT.
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:FF2D55&height=120&section=footer" /></div>
