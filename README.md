@@ -20,15 +20,15 @@
 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  👨‍💻  Aditya Dugar                                         │
+│  👨‍💻  Aditya Dugar                                           │
 │                                                             │
-│  🎓  Software Engineering Student — 2nd Year               │
+│  🎓  Software Engineering Student — 2nd Year                │
 │  🏫  Jain Deemed-to-be University                           │
 │                                                             │
 │  🤖  Exploring AI, Agents & RAG                             │
 │  ⚙️  Building automation & backend systems                  │
 │  🌐  Creating modern full-stack applications                │
-│  🐧  Linux enthusiast                                      │
+│  🐧  Linux enthusiast                                       │
 │                                                             │
 │  Currently turning random ideas into actual repositories.   │
 │                                                             │
@@ -48,7 +48,7 @@ I learn fastest by taking an idea, building the ugly first version, breaking it,
 
 <div align="center">🤖 AI × ⚙️ AUTOMATION × 🌐 SOFTWARE
 
-</div>                         ┌───────────────┐
+</div>                   ┌───────────────┐
                          │   AI / LLMs   │
                          └───────┬───────┘
                                  │
@@ -61,7 +61,7 @@ I learn fastest by taking an idea, building the ugly first version, breaking it,
         ┌──────────┐       ┌──────────┐       ┌──────────┐
         │   RAG    │       │  AGENTS  │       │ WORKFLOW │
         └────┬─────┘       └────┬─────┘       │AUTOMATION│
-             │                  │              └────┬─────┘
+             │                  │             └────┬─────┘
              └──────────────────┼──────────────────┘
                                 ▼
                        ┌─────────────────┐
