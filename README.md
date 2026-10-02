@@ -1,254 +1,293 @@
-<div align="center">⚡ ADITYA DUGAR
+<div align="center">
 
-"Software Engineering Student" • "AI Builder" • "Automation Nerd"
+# ⚡ ADITYA DUGAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Automation+%C3%97+Full-Stack+%C3%97+AI;Learning+by+building%2C+breaking%2C+and+rebuilding+%F0%9F%94%A5" alt="Typing SVG" /><br><a href="https://github.com/AdityaDugar11">
-<img src="https://img.shields.io/github/followers/AdityaDugar11?style=for-the-badge&logo=github&label=FOLLOWERS" />
+### `Software Engineering Student` · `AI Builder` · `Automation Nerd`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems+%F0%9F%A4%96;AI+%C3%97+Automation+%C3%97+Full-Stack;Turning+ideas+into+working+software+%F0%9F%9A%80;Build.+Break.+Learn.+Ship.+Repeat." alt="Typing animation" />
+
+<br>
+
+<a href="https://github.com/AdityaDugar11">
+  <img src="https://img.shields.io/badge/GitHub-AdityaDugar11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
-<a href="https://github.com/AdityaDugar11?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-18-181717?style=for-the-badge&logo=github" />
+<a href="https://www.linkedin.com/in/aditya-dugar-b95962219/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dugar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AdityaDugar11&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" /><br><br>
 
-«"Don't just learn the technology. Build something with it."»
+<br><br>
 
-</div>---
+<img src="https://komarev.com/ghpvc/?username=AdityaDugar11&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
-🧠 WHO AM I?
+<br><br>
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  👨‍💻  Aditya Dugar                                           │
-│                                                             │
-│  🎓  Software Engineering Student — 2nd Year                │
-│  🏫  Jain Deemed-to-be University                           │
-│                                                             │
-│  🤖  Exploring AI, Agents & RAG                             │
-│  ⚙️  Building automation & backend systems                  │
-│  🌐  Creating modern full-stack applications                │
-│  🐧  Linux enthusiast                                       │
-│                                                             │
-│  Currently turning random ideas into actual repositories.   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+> **I don't just want to use technology. I want to understand it, build with it, and break it until I understand why it works.**
 
-I'm a second-year Software Engineering student who likes building things that actually do something.
-
-My current rabbit holes:
-
-"AI Agents" → "RAG" → "Automation" → "Backend Systems" → "Full-Stack" → "Linux"
-
-I learn fastest by taking an idea, building the ugly first version, breaking it, figuring out why it broke, and then making it better.
+</div>
 
 ---
 
-🔥 WHAT I'M BUILDING
+## 👨‍💻 About Me
 
-<div align="center">🤖 AI × ⚙️ AUTOMATION × 🌐 SOFTWARE
+I'm a **2nd-year Software Engineering student at Jain Deemed-to-be University** building projects around:
 
-</div>                   ┌───────────────┐
-                         │   AI / LLMs   │
-                         └───────┬───────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │     AI APPLICATIONS     │
-                    └────────────┬────────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              ▼                  ▼                  ▼
-        ┌──────────┐       ┌──────────┐       ┌──────────┐
-        │   RAG    │       │  AGENTS  │       │ WORKFLOW │
-        └────┬─────┘       └────┬─────┘       │AUTOMATION│
-             │                  │             └────┬─────┘
-             └──────────────────┼──────────────────┘
-                                ▼
-                       ┌─────────────────┐
-                       │ BACKEND / APIs  │
-                       └────────┬────────┘
-                                ▼
-                       ┌─────────────────┐
-                       │ FULL-STACK APPS │
-                       └─────────────────┘
+- 🤖 **AI & LLM applications**
+- 🧠 **RAG & AI agents**
+- ⚙️ **Automation workflows**
+- 🌐 **Full-stack applications**
+- 🔧 **Backend & API development**
+- 🐧 **Linux & developer tooling**
+
+Currently exploring the intersection of:
+
+**AI → Agents → Automation → Backend → Full-Stack**
+
+I learn by building real projects, breaking things, debugging them, and rebuilding them better.
 
 ---
 
-🚀 FEATURED BUILDS
+## 🔥 Featured Projects
 
-🏛️ SchemeMatcher
+### 🏛️ SchemeMatcher
+**AI-driven government scheme matching platform**
 
-AI-driven government scheme matching platform
+Helps users discover relevant government schemes using profile-based matching and AI-powered recommendations.
 
-Helping users discover relevant government schemes through profile-based matching and AI-powered recommendations.
+**Stack**
 
-"React" "Vite" "FastAPI" "Gemini" "Supabase" "SQLite"
+`React` `Vite` `FastAPI` `Gemini` `Supabase` `SQLite`
 
 <a href="https://github.com/AdityaDugar11/SIH-AI-Driven-Scheme-Matching-for-Marginalized-Entrepreneurs">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>---
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View SchemeMatcher"/>
+</a>
 
-🛡️ FlowGuard AI
+---
 
-Agentic payment & fraud-detection prototype
+### 🛡️ FlowGuard AI
+**Agentic payment & fraud-detection prototype**
 
-A fintech experiment combining payment systems, anomaly detection, risk analysis and an AI decision layer.
+A fintech system combining payment processing, anomaly detection, risk analysis and an AI decision layer.
 
-"React" "FastAPI" "Python" "scikit-learn" "AI Agents"
+**Stack**
+
+`React` `FastAPI` `Python` `scikit-learn` `AI Agents`
 
 <a href="https://github.com/AdityaDugar11/MATRIX">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github" />
-</a>---
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View FlowGuard AI"/>
+</a>
 
-🎬 AI Content Automation Pipeline
+---
 
-AI content generation without manually doing everything
+### 🎬 AI Content Automation Pipeline
+**AI-powered content generation & automation**
 
-A workflow combining LLMs, n8n and ComfyUI to automate research, content generation, media generation and publishing workflows.
+Connects LLMs, n8n and ComfyUI to automate research, content generation, media generation and publishing workflows.
 
-"n8n" "Ollama" "ComfyUI" "LLMs" "Automation"
+**Stack**
+
+`n8n` `Ollama` `ComfyUI` `LLMs` `Automation`
 
 <a href="https://github.com/AdityaDugar11/AI-Content-Generation-Automation-Pipeline-n8n-ComfyUI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF2D55?style=for-the-badge&logo=github" />
-</a>---
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF2D55?style=for-the-badge&logo=github&logoColor=white" alt="View AI Content Pipeline"/>
+</a>
 
-🎯 Lead Qualification Agent
+---
 
-AI-powered lead analysis & qualification
+### 🎯 Lead Qualification Agent
+**AI-assisted lead analysis & qualification**
 
 An automation workflow that collects lead information, analyzes it with an LLM and routes the result through external services.
 
-"n8n" "Groq" "Airtable" "Slack" "JavaScript"
+**Stack**
+
+`n8n` `Groq` `Airtable` `Slack` `JavaScript`
 
 <a href="https://github.com/AdityaDugar11/Lead-Qualification-Agent">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00C853?style=for-the-badge&logo=github" />
-</a>---
-
-🔗 SnipLink
-
-A URL shortener that actually tracks the links
-
-Create short URLs, use custom slugs, track clicks and manage links through a web dashboard.
-
-"Node.js" "Express" "JavaScript" "REST API"
-
-<a href="https://github.com/AdityaDugar11/sniplink">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF9800?style=for-the-badge&logo=github" />
-</a>---
-
-🧰 MY TECH STACK
-
-<div align="center">💻 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java" />🌐 WEB
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" />⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />🤖 AI / AUTOMATION
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br><img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-00A8E8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />🗄️ DATABASE & CLOUD
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,githubactions" />🐧 ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" /></div>---
-
-⚡ CURRENTLY LEARNING
-
-+ Agentic AI & tool-using systems
-+ Retrieval-Augmented Generation
-+ Advanced Python
-+ TypeScript
-+ Backend architecture
-+ API design
-+ Docker & CI/CD
-+ Linux & developer tooling
-+ Testing & production engineering
-
-- Trying to learn 47 frameworks at the same time
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C853?style=for-the-badge&logo=github&logoColor=white" alt="View Lead Qualification Agent"/>
+</a>
 
 ---
 
-🧪 CURRENT EXPERIMENTS
+### 🔗 SnipLink
+**URL shortening & link management**
+
+Create short URLs, use custom slugs, track clicks and manage links through a browser dashboard.
+
+**Stack**
+
+`Node.js` `Express` `JavaScript` `REST API`
+
+<a href="https://github.com/AdityaDugar11/sniplink">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="View SnipLink"/>
+</a>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+
+### AI & Automation
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00D9FF?style=flat-square&logoColor=black)
+
+### Tools & Environment
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## 🧪 Currently Exploring
 
 <table>
 <tr>
-<td width="50%">🤖 AI Agents
+<td width="50%">
 
-Building systems where LLMs can reason, use tools and execute workflows instead of simply generating text.
+### 🤖 AI Agents
 
-</td>
-<td width="50%">🔄 Automation
-
-Connecting AI models with real services through n8n, APIs and custom backend systems.
+Building systems where LLMs can reason, use tools and execute workflows.
 
 </td>
-</tr><tr>
-<td width="50%">🧠 RAG
+<td width="50%">
 
-Experimenting with systems that retrieve useful information before generating answers.
+### 🔄 Automation
 
-</td>
-<td width="50%">🐧 Linux
-
-Using Linux as a development environment and learning how the system actually works underneath the abstractions.
+Connecting AI models with APIs, services and real-world workflows.
 
 </td>
 </tr>
-</table>---
 
-📊 GITHUB ACTIVITY
+<tr>
+<td width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdityaDugar11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDugar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /><br><img src="https://streak-stats.demolab.com?user=AdityaDugar11&theme=tokyonight&hide_border=true" /></div>---
+### 🧠 RAG
 
-🐍 THE CONTRIBUTION SNAKE
+Learning how retrieval, context and generation work together in practical applications.
 
-<div align="center"><img src="https://raw.githubusercontent.com/AdityaDugar11/AdityaDugar11/output/github-contribution-grid-snake-dark.svg" /></div>---
+</td>
+<td width="50%">
 
-🎯 2026 → 2027
+### 🐧 Linux
 
-2026
- │
- ├── 📚 Strengthen DSA & CS fundamentals
- ├── 🤖 Build deeper AI systems
- ├── ⚙️ Learn production backend engineering
- ├── 🐳 Get serious about Docker + CI/CD
- ├── 🧠 Build better agentic workflows
- └── 🚀 Ship projects instead of collecting tutorials
- │
- ▼
-2027
- │
- ├── 💼 Internship
- ├── 🌎 Open-source contributions
- ├── 🏗️ Larger engineering projects
- └── 🤖 Production-grade AI applications
+Understanding the development environment beneath the frameworks and abstractions.
+
+</td>
+</tr>
+</table>
 
 ---
 
-💭 HOW I THINK ABOUT BUILDING
+## 📚 Currently Learning
 
-«Idea → Prototype → Break → Debug → Understand → Improve → Ship»
+```text
+AI Agents              ███████████████░░░
+RAG                    ████████████░░░░░░
+Advanced Python        ███████████░░░░░░░
+TypeScript             █████████░░░░░░░░░
+Backend Architecture   ████████░░░░░░░░░░
+Docker / CI/CD         ███████░░░░░░░░░░░
+DSA & CS Fundamentals  ████████████░░░░░░
+```
 
-I don't want to just collect certificates or memorize frameworks.
-
-I want to understand why the system works, where it breaks, and how to make it better.
+> Progress bars are intentionally approximate — they're a visual snapshot, not fake percentages.
 
 ---
 
-🌐 FIND ME
+## 📊 GitHub
 
-<div align="center"><a href="https://github.com/AdityaDugar11">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaDugar11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDugar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=AdityaDugar11&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+## 🎯 2026 → 2027
+
+| Now | Next |
+|---|---|
+| 🧠 Strengthen CS fundamentals | 💼 Internship |
+| 🤖 Build deeper AI systems | 🌎 Open-source contributions |
+| ⚙️ Learn production backend | 🏗️ Larger engineering systems |
+| 🐳 Improve Docker + CI/CD | 🚀 Production-grade AI apps |
+| 📚 Master DSA | 🧩 More serious software engineering |
+
+---
+
+## 🧭 My Build Loop
+
+<div align="center">
+
+**IDEA** → **PROTOTYPE** → **BREAK IT** → **DEBUG** → **UNDERSTAND** → **IMPROVE** → **SHIP**
+
+</div>
+
+I care less about collecting technologies and more about understanding how the pieces fit together.
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/AdityaDugar11">
 <img src="https://img.shields.io/badge/GitHub-AdityaDugar11-181717?style=for-the-badge&logo=github" />
-</a><a href="https://www.linkedin.com/in/aditya-dugar-b95962219/">
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-dugar-b95962219/">
 <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dugar-0A66C2?style=for-the-badge&logo=linkedin" />
-</a><a href="https://adityadugar.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
-</a></div>---
+</a>
 
-<div align="center">⚡ BUILD. BREAK. LEARN. SHIP. REPEAT.
+<a href="https://adityadugar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:FF2D55&height=120&section=footer" /></div>
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ BUILD · BREAK · LEARN · SHIP · REPEAT
+
+</div>
