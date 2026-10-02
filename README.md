@@ -108,17 +108,17 @@ An automation workflow that collects lead information, analyzes it with an LLM a
 
 ---
 
-### 🔗 SnipLink
-**URL shortening & link management**
+### 🔗 FAQ RAG Support Agent
+**AI-powered customer support assistant**
 
-Create short URLs, use custom slugs, track clicks and manage links through a browser dashboard.
+An AI-powered customer support assistant that handles FAQs, escalates complex queries to human agents via Slack, and logs interactions to Airtable.
 
 **Stack**
 
-`Node.js` `Express` `JavaScript` `REST API`
+`n8n` `Groq` `Airtable` `Slack` `JavaScript`
 
-<a href="https://github.com/AdityaDugar11/sniplink">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="View SnipLink"/>
+<a href="https://github.com/AdityaDugar11/FAQ-RAG-Support-Agent">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="View FAQ RAG Support Agent"/>
 </a>
 
 ---
